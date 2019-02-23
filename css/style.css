@@ -1,0 +1,51 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.tit {
+color:#A35D43;
+position: absolute;
+top: 15px;
+left: 40px;
+z-index: 2;
+font-weight: bold;
+font-size: 24px;
+} 
+
+.test {
+	position: relative;
+	top: 30px;
+	left: 30px;
+	width: 500px;
+	height: 300px;
+	border: 2px solid rgb(177,192,174);
+	background-color: rgb(225,227,184);
+	background-image: url(http://htmlbook.ru/files/check-bg.png);
+	background-repeat: no-repeat;
+	background-position: 2% 10%;
+}
+
+.questhion{
+padding-top: 20px;
+padding-left: 10px;
+padding-bottom: 0px: 
+}
+
+input {
+	margin-top: 10px;
+}
+
+form {
+	padding-top: 20px;
+	padding-left: 100px;
+	box-sizing: border-box;
+}
+
+button {
+	background-color: rgb(185,143,92);
+	margin-top: 20px; 
+	color: white;
+	border: 1px solid rgb(255,255,255);
+	padding: 3px;
+}
